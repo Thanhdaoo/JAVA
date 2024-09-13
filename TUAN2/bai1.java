@@ -6,5 +6,6 @@ public class bai1 {
         System.out.println("Xin mời bạn nhập họ và tên:");
         String ten= new Scanner(System.in).nextLine();
         System.out.println("Hello" +ten);
+        System.out.println("Hì");
     }
 }
